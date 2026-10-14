@@ -29,7 +29,7 @@ const filteredProducts = computed(() => {
 
     <div class="page-heading">
 
-      <span>MARKETPLACE</span>
+      <span>Digital Marketplace</span>
 
       <h1>All Products</h1>
 

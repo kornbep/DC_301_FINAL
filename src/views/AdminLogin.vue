@@ -30,7 +30,7 @@ const login = () => {
       <div class="admin-login-icon">🔐</div>
 
       <h1>Admin Login</h1>
-      <p>Sign in to manage MarketHub orders.</p>
+      <p>Sign in to manage Digital Marketplace orders.</p>
 
       <form @submit.prevent="login">
         <label for="username">Username</label>
